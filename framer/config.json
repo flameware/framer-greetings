@@ -1,0 +1,18 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "contentScale" : 1,
+  "fullScreen" : false,
+  "sharedPrototype" : true,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "custom",
+  "projectId" : "946E9578-6BE4-4786-B324-4810BB333395",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : 1.129518072289157
+}
